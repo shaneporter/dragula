@@ -1,0 +1,8 @@
+{
+  "name": "dragulaTest",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "dragular": "~3.2.0"
+  }
+}
